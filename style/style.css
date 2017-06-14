@@ -1,0 +1,2390 @@
+.By_Line { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 font-weight: normal;
+	 text-align: center;
+	 color: navy}
+.Copyright {  	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 8pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 text-align: left;
+	 color: navy}
+.Footnote { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 3pt;
+	 padding-right: 3pt;
+	 padding-bottom: 3pt;
+	 padding-left: 3pt;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 margin-left: auto;
+	 left: auto;
+	 clip: rect( );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy} 
+
+H1 {
+	FONT-SIZE: 30pt; FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; TEXT-ALIGN: center; VERTICAL-ALIGN: top;
+}
+H2 {
+	FONT-SIZE: 24pt; FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; TEXT-ALIGN: center; VERTICAL-ALIGN: top;
+}
+.HeadCenterItalic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 30pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto; t	op: auto;
+	 clip: rect( ) }
+.Head_Date { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head12 { 	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head12Italic { 	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head14Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head16Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head18Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head21 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 21pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head21Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 21pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head24 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt;
+	 font-style: normal;
+	 line-height: 24pt;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head24Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt;
+	 font-style: italic;
+	 line-height: 24pt;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head30 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 30pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head30Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 30pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head36 {
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 36px;	
+	font-weight: bold;	color: navy;	
+	text-decoration: underline;	text-align: center;	vertical-align: text-top;}
+.Head36Italic {
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 36px;
+	font-style: italic;	
+	font-weight: bold;	
+	color: navy;	
+	text-decoration: underline;	
+	text-align: center;	
+	vertical-align: text-top;}
+.Head42 {	
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 42px;	
+	font-style: normal;	
+	font-weight: bold;	
+	text-align: center;
+	color: navy;	
+}
+.Head42Italic {	
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 42px;	
+	font-style: italic;	
+	font-weight: bold;	
+	text-align: center;
+	color: navy;	
+}
+.Head48 {	
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 48px;	
+	font-style: normal;	
+	font-weight: bold;	
+	text-align: center;
+	color: navy;	
+}
+.Head48Italic {	
+	font-family: "Century Gothic Bold", "Century Gothic", "Century Gothic Bold Italic", "Century Gothic Italic";	
+	font-size: 48px;	
+	font-style: italic;	
+	font-weight: bold;	
+	text-align: center;
+	color: navy;	
+}
+.HeadLarge { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 36pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto; clip: rect( ) }
+.HeadLeft { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 30pt; font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeftItalic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 30pt; font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft10 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 padding-top: 0;
+	 padding-bottom: 2pt;
+	 clip: rect( ) }
+.HeadLeft10Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 padding-top: 0;
+	 padding-bottom: 2pt;
+	 clip: rect( ) }
+.HeadLeft12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft12Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft14Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft16Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt; font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft18Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft20 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 20pt; font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft20Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 20pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft22 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 22pt; font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft22Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 22pt; font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft24 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt; font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft24Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt; font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft28 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 28pt; 
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft28Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 28pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft32 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 32pt; 
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft32Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 32pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft36 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 36pt; 
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft36Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 36pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft42 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 42pt; 
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft42Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 42pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft48 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 48pt; 
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadLeft48Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 48pt; 
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Head_Reading { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight10 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 padding-top: 0;
+	 padding-bottom: 2pt;
+	 clip: rect( ) }
+.HeadRight10Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 padding-top: 0;
+	 padding-bottom: 2pt;
+	 clip: rect( ) }
+.HeadRight12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight12Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight14Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight16Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight18Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight20 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 20pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight20Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 20pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight22 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 22pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight22Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 22pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight24 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight24Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 24pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight28 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 28pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight28Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 28pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight32 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 32pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight32Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 32pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight36 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 36pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight36Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 36pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight42 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 42pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight42Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 42pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight48 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 48pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.HeadRight48Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 48pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; 
+	 text-align: right;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Justify_0 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 margin-left: auto;
+	 left: auto;
+	 clip: rect( );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_0_Bold {	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 margin-left: auto;
+	 left: auto;
+	 clip: rect( );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_0_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 margin-left: auto;
+	 left: auto;
+	 clip: rect( );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_0_Bold_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: auto;
+	 margin-bottom: auto;
+	 margin-left: auto;
+	 left: auto;
+	 clip: rect( );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_1 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 18pt;
+	 margin-bottom: auto;
+	 margin-left: 18pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_1_Bold { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 18pt;
+	 margin-bottom: auto;
+	 margin-left: 18pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_1_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 18pt;
+	 margin-bottom: auto;
+	 margin-left: 18pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_1Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 18pt;
+	 margin-bottom: auto;
+	 margin-left: 18pt;
+	 left: auto;
+	 clip:    rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_1_Bold_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 18pt;
+	 margin-bottom: auto;
+	 margin-left: 18pt;
+	 left: auto;
+	 clip:    rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_2 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 36pt;
+	 margin-bottom: auto;
+	 margin-left: 36pt;
+	 left: auto;
+	 clip:    rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_2Bold { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 36pt;
+	 margin-bottom: auto;
+	 margin-left: 36pt;
+	 left: auto;
+	 clip:    rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_2_Bold { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 36pt;
+	 margin-bottom: auto;
+	 margin-left: 36pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_2_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 36pt;
+	 margin-bottom: auto;
+	 margin-left: 36pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_2_Bold_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 36pt;
+	 margin-bottom: auto;
+	 margin-left: 36pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_3 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 54pt;
+	 margin-bottom: auto;
+	 margin-left: 54pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_3_Bold { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 54pt;
+	 margin-bottom: auto;
+	 margin-left: 54pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_3_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 54pt;
+	 margin-bottom: auto;
+	 margin-left: 54pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_3_Bold_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 54pt;
+	 margin-bottom: auto;
+	 margin-left: 54pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_4 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 72pt;
+	 margin-bottom: auto;
+	 margin-left: 72pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_4_Bold { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 72pt;
+	 margin-bottom: auto;
+	 margin-left: 72pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_4_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 72pt;
+	 margin-bottom: auto;
+	 margin-left: 72pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Justify_4_Bold_Italic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 font-variant: normal;
+	 text-transform: none;
+	 letter-spacing: normal;
+	 text-align: justify;
+	 vertical-align: text-top;
+	 word-spacing: normal;
+	 white-space: normal;
+	 height: auto;
+	 width: auto;
+	 padding-top: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt;
+	 margin-top: auto;
+	 margin-right: 72pt;
+	 margin-bottom: auto;
+	 margin-left: 72pt;
+	 left: auto;
+	 clip: rect(   );
+	 border-style: none;
+	 border-top-width: auto;
+	 border-right-width: auto;
+	 border-bottom-width: auto;
+	 border-left-width: auto;
+	 color: navy}
+.Link { 
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+	 
+.navHorz { 
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 10pt; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: #FFFFFF; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	padding-top: 4pt;
+	padding-bottom: 4pt;
+	clip: rect( ) 
+}
+.Navigation {  	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 font-weight: bold;
+	 text-align: left	padding-top; color: navy: 6pt;
+	 padding-right: 6pt;
+	 padding-bottom: 6pt;
+	 padding-left: 6pt; }
+.Navy_Bold_Center_0_12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Center_0_14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Center_0_16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Center_0_18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+	 
+.Navy_Bold_Center_0_20 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 20px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Center_0_22 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 22px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Center_0_24 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 24px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Center_0_28 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 28px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Center_0_30 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 30px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Center_0_36 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 36px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: center; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Justify_0_12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: justify;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Justify_0_14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: justify;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Justify_0_16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: justify;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Justify_0_18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif; 	
+	font-size: 18px; 	
+	font-style: normal; 	
+	line-height: normal; 	
+	font-weight: bold; 	
+	color: navy; 	
+	text-align: justify; 	
+	height: auto; 	
+	width: auto; 	
+	left: auto; 	
+	top: auto; 	
+	clip: rect( ) 
+}
+.Navy_Bold_Left_0_12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Left_0_14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Left_0_16 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 16px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Navy_Bold_Left_0_18 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18px;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.ScriptureDate { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.ScriptureReading { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.ScriptureReadingSmall { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 11pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.SubHeadCenter { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.SubHeadCenterItalic { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: italic;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.Teaching-by_line {  	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 font-weight: bold;
+	 text-align: center;
+	 color: navy}
+.Teaching-Head {  	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: italic;
+	 font-weight: bold;
+	 text-align: center;
+	 color: navy}
+.TextCenter { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeft { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy; t	ext-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeft10 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeft12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;	width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeft14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeftMedium { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeftMediumNormal { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 color: navy;
+	 text-align: left;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeftMediumNormalJustified { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: normal;
+	 color: navy;
+	 text-align: justify;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextLeftMediumCentered { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 18pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextCenter10 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 10pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextCenter12 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 12pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+.TextCenter14 { 	
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	 font-size: 14pt;
+	 font-style: normal;
+	 line-height: normal;
+	 font-weight: bold;
+	 color: navy;
+	 text-align: center;
+	 height: auto;
+	 width: auto;
+	 left: auto;
+	 top: auto;
+	 clip: rect( ) }
+p.heb {
+	FONT-SIZE: 21pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS";
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	COLOR: navy;
+}
+
+p.en {
+	FONT-SIZE: 16pt; 
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: justify; 
+	VERTICAL-ALIGN: top
+	COLOR: navy;
+}
+p.greek {
+	FONT-SIZE: 18pt;
+	TEXT-ALIGN: justify;
+	VERTICAL-ALIGN: top;
+}
+p.cardo {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo;
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.ezrasil {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Ezra SIL"; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.lucida {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "LUCIDA GRANDE";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.sblhebrew {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "SBL Hebrew";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.david {
+	FONT-SIZE: 30pt; 
+	FONT-FAMILY: David; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.arialunicode {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Arial Unicode MS"; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top 
+	color: navy;	
+}
+p.titus {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "TITUS Cyberbit Basic";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.frankruehl {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: FrankRuehl; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.narkisim {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Narkisim; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	color: navy;	
+}
+p.guttmandavid {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Guttman David", "Ezra SIL", FrankRuehl, Narkisim, David, "Arial Unicode MS", sans-serif, garamond, serif; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top 
+	color: navy;	
+}
+BODY {
+	FONT-FAMILY: David Transparent; 
+	BACKGROUND-COLOR: #ffffff;
+	COLOR: NAVY;
+}
+P.m {
+	FONT-SIZE: 80%; TEXT-ALIGN: left;
+}
+P.s {
+	FONT-SIZE: 80%; TEXT-ALIGN: justify;
+}
+BIG {
+	FONT-SIZE: 120%;
+}
+SMALL {
+	FONT-SIZE: 80%;
+}
+TD {
+	FONT-SIZE: 120%; TEXT-ALIGN: left; DIRECTION: ltr; lang: en; VERTICAL-ALIGN: top;
+}
+TD.h {
+	FONT-SIZE: 165%; FONT-FAMILY: David; TEXT-ALIGN: right; DIRECTION: rtl; lang: he; VERTICAL-ALIGN: top;
+}
+SPAN.ENG {
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif;
+}
+SPAN.heb {
+	FONT-SIZE: 130%; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS";
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	COLOR: navy;
+}
+td.hebrew {
+	FONT-SIZE: 160%; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+}
+td.latin {
+	FONT-SIZE: 160%; 
+	FONT-FAMILY: "Arial Unicode MS", "Lucida Sans Unicode", Gentium, sans-serif, serif; 
+}
+td.h2 {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; lang: "he"; 
+}
+td.heb {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top;
+}
+p.copyright {
+	FONT-SIZE: 8pt;
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: LEFT;
+	COLOR: navy;
+	VERTICAL-ALIGN: TOP;
+}
+td.en {
+	FONT-SIZE: 16pt; 
+	FONT-FAMILY: "Helvetica", "Century Gothic", "Arial", San-Serif; 
+	TEXT-ALIGN: justify; 
+	VERTICAL-ALIGN: 80%;
+}
+p.heb {
+	FONT-SIZE: 21pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS";
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	COLOR: navy;
+}
+p.hex {
+	FONT-SIZE: 12pt; 
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: left; 
+	VERTICAL-ALIGN: top;
+}
+span.fnreference {
+	FONT-SIZE: 10pt; 
+	VERTICAL-ALIGN: super; 
+	TEXT-DECORATION: none;
+}
+p.versenum 	{ 
+	FONT-WEIGHT: bold; 
+}
+p.chapters {
+	FONT-SIZE: 12pt;
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: CENTER;
+	VERTICAL-ALIGN: TOP;
+}

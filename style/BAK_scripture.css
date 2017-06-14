@@ -1,0 +1,180 @@
+BODY {
+	FONT-FAMILY: David Transparent; 
+	BACKGROUND-COLOR: #ffffff;
+	COLOR: NAVY;
+}
+P.m {
+	FONT-SIZE: 80%; TEXT-ALIGN: left;
+}
+P.s {
+	FONT-SIZE: 80%; TEXT-ALIGN: justify;
+}
+BIG {
+	FONT-SIZE: 120%;
+}
+SMALL {
+	FONT-SIZE: 80%;
+}
+TD {
+	FONT-SIZE: 120%; TEXT-ALIGN: left; DIRECTION: ltr; lang: en; VERTICAL-ALIGN: top;
+}
+TD.h {
+	FONT-SIZE: 165%; FONT-FAMILY: David; TEXT-ALIGN: right; DIRECTION: rtl; lang: he; VERTICAL-ALIGN: top;
+}
+SPAN.ENG {
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif;
+}
+td.hebrew {
+	FONT-SIZE: 160%; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+}
+td.latin {
+	FONT-SIZE: 160%; 
+	FONT-FAMILY: "Arial Unicode MS", "Lucida Sans Unicode", Gentium, sans-serif, serif; 
+}
+td.h2 {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; lang: "he"; 
+}
+td.heb {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS"; 
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top;
+}
+td.en {
+	FONT-SIZE: 16pt; 
+	FONT-FAMILY: "Helvetica", "Century Gothic", "Arial", San-Serif; 
+	TEXT-ALIGN: justify; 
+	VERTICAL-ALIGN: 80%;
+}
+p.heb {
+	FONT-SIZE: 21pt; 
+	FONT-FAMILY: Cardo, "LUCIDA GRANDE", "Ezra SIL",  "SBL Hebrew", david, "Arial Unicode MS";
+	TEXT-ALIGN: right; 
+	DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+	COLOR: navy;
+}
+p.hex {
+	FONT-SIZE: 12pt; 
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: left; 
+	VERTICAL-ALIGN: top;
+}
+span.fnreference {
+	FONT-SIZE: 10pt; 
+	VERTICAL-ALIGN: super; 
+	TEXT-DECORATION: none;
+}
+p.versenum 	{ 
+	FONT-WEIGHT: bold; 
+}
+p.chapters {
+	FONT-SIZE: 12pt;
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: CENTER;
+	VERTICAL-ALIGN: TOP;
+}
+p.copyright {
+	FONT-SIZE: 8pt;
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: LEFT;
+	COLOR: navy;
+	VERTICAL-ALIGN: TOP;
+}
+p.en {
+	FONT-SIZE: 16pt; 
+	FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; 
+	TEXT-ALIGN: justify; 
+	VERTICAL-ALIGN: top
+	COLOR: navy;
+}
+p.greek {
+	FONT-SIZE: 18pt;
+	TEXT-ALIGN: justify;
+	VERTICAL-ALIGN: top;
+}
+p.cardo {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Cardo;
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.ezrasil {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Ezra SIL"; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.lucida {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "LUCIDA GRANDE";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.sblhebrew {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "SBL Hebrew";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.david {
+	FONT-SIZE: 30pt; 
+	FONT-FAMILY: David; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.arialunicode {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Arial Unicode MS"; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top 
+}
+p.titus {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "TITUS Cyberbit Basic";
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.frankruehl {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: FrankRuehl; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.narkisim {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: Narkisim; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top; 
+}
+p.guttmandavid {
+	FONT-SIZE: 24pt; 
+	FONT-FAMILY: "Guttman David", "Ezra SIL", FrankRuehl, Narkisim, David, "Arial Unicode MS", sans-serif, garamond, serif; 
+	TEXT-ALIGN: right; DIRECTION: "rtl"; 
+	VERTICAL-ALIGN: top 
+}
+
+H1 {
+	FONT-SIZE: 30pt; FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; TEXT-ALIGN: center; VERTICAL-ALIGN: top;
+}
+H2 {
+	FONT-SIZE: 24pt; FONT-FAMILY: "Helvetica", "Arial", "Century Gothic", San-Serif; TEXT-ALIGN: center; VERTICAL-ALIGN: top;
+}
+.Link { FONT-FAMILY: "Century Gothic", Helvetica, Arial, sans-serif; 
+	FONT-SIZE: 10pt; 
+	FONT-STYLE: normal; 
+	LINE-HEIGHT: normal; 
+	FONT-WEIGHT: bold; 
+	COLOR: navy; 
+	TEXT-ALIGN: center; 
+	HEIGHT: auto; 
+	WIDTH: auto; 
+	LEFT: auto; 
+	TOP: auto; 
+	CLIP: rect( ); 
+}
