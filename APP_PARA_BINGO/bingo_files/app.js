@@ -315,6 +315,11 @@ function get_row(elem_id){
 	return get_col(pref);
 }
 
+function size_of_screen(){
+	var tt = "Total Width: " + screen.width;
+	alert(tt);
+}
+
 function prt_formato(){
 	get_formato();
 	

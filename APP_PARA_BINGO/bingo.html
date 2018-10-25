@@ -18,7 +18,7 @@
   <meta name="theme-color" content="#2196f3">
   <meta name="format-detection" content="telephone=no">
   <meta name="msapplication-tap-highlight" content="no">
-  <title>My App</title>
+  <title>BINGO_APP</title>
 
   <link rel="stylesheet" href="bingo_files/framework7.css">
   <link rel="stylesheet" href="bingo_files/icons.css">
@@ -606,16 +606,16 @@
 				</div>
 			</div>
 			
-			<!-- div class="row">
+			<div class="row">
 				<div class="col">
 					<button class="col button button-fill color-blue" 
-							onclick="prt_formato()">prt_formato</button>
+							onclick="size_of_screen()">size_of_screen</button>
 				</div>
-				<div class="col">
+				<!-- div class="col">
 					<button class="col button button-fill color-blue"
 							onclick="prt_numeros()">prt_numeros</button>
-				</div>
-			</div-->
+				</div-->
+			</div>
 
           </div>
         </div>
@@ -835,78 +835,23 @@
 				</div>
 			</div>
 		</div>
-    <div class="block block-strong">
-      <p>
-		<a href="#" class="col button button-fill color-green" 
-			onclick="set_all_formato(true)">SELECCIONE TODOS</a>
-      </p>
-      <p>
-		<a href="#" class="col button button-fill color-red"
-			onclick="set_all_formato(false)">BORRE TODOS</a>
-      </p>
-    </div>
+		<div class="block block-strong">
+			<p>
+			<a href="#" class="col button button-fill color-green" 
+				onclick="set_all_formato(true)">SELECCIONE TODOS</a>
+			</p>
+			<p>
+			<a href="#" class="col button button-fill color-red"
+				onclick="set_all_formato(false)">BORRE TODOS</a>
+			</p>
+		</div>
   </div>
-</div></div>
-    </div>
-
-    <!-- Popup -->
-    <div class="popup" id="my-popup">
-      <div class="view">
-        <div class="page">
-          <div class="navbar">
-            <div class="navbar-inner">
-              <div class="title">Popup</div>
-              <div class="right">
-                <a href="#" class="link popup-close">Close</a>
-              </div>
-            </div>
-          </div>
-          <div class="page-content">
-            <div class="block">
-              <p>Popup content goes here.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+</div>
+</div>
+</div>
 
     <!-- Login Screen -->
     <div class="login-screen" id="my-login-screen">
-      <div class="view">
-        <div class="page">
-          <div class="page-content login-screen-content">
-            <div class="login-screen-title">Login</div>
-            <div class="list">
-              <ul>
-                <li class="item-content item-input">
-                  <div class="item-inner">
-                    <div class="item-title item-label">Username</div>
-                    <div class="item-input-wrap">
-                      <input name="username" placeholder="Your username" type="text">
-                    </div>
-                  </div>
-                </li>
-                <li class="item-content item-input">
-                  <div class="item-inner">
-                    <div class="item-title item-label">Password</div>
-                    <div class="item-input-wrap">
-                      <input name="password" placeholder="Your password" type="password">
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-            <div class="list">
-              <ul>
-                <li>
-                  <a href="#" class="item-link list-button login-button">Sign In</a>
-                </li>
-              </ul>
-              <div class="block-footer">Some text about login information.<br>Click "Sign In" to close Login Screen</div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   <textarea class="textarea-resizable-shadow" disabled="disabled" style="width: 100%; font-size: 16px; font-family: Roboto, Noto, Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; line-height: 22.4px; font-variant: normal; text-transform: none; letter-spacing: normal; box-sizing: border-box; display: block; height: 0px;"></textarea></div>
   <!-- Cordova -->
